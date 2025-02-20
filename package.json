@@ -28,6 +28,7 @@
     "node-roon-api-image": "github:roonlabs/node-roon-api-image",
     "node-roon-api-settings": "github:roonlabs/node-roon-api-settings",
     "node-roon-api-transport": "github:roonlabs/node-roon-api-transport",
+    "node-roon-api": "github:OonihiloO/node-roon-api#fix/add-node-22-support",
     "semver": "^7.5.4",
     "tslib": "^2.6.2"
   },
